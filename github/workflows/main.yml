@@ -3,18 +3,21 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - master  # Change this to your branch name
+      - master  # Replace 'main' with your default branch if it's different, e.g., 'master'
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily to update the snake animation
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v2
         with:
-          github_user_name: ManshuSengar
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+          github_user_name: ManshuSengar  # Replace this with your GitHub username
+          outputs: dist/snake.svg
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
