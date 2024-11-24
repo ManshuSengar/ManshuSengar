@@ -53,19 +53,6 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
 </p>
 
----
-
-<h2 align="center">📂 Repositories Worth Checking Out</h2>
-<p align="center">
-  <a href="https://github.com/ManshuSengar/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManshuSengar&repo=project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/ManshuSengar/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManshuSengar&repo=project2&theme=radical" alt="Project 2" />
-  </a>
-</p>
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
