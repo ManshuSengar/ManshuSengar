@@ -37,8 +37,9 @@
 
 <h2 align="center">🐍 Snake Animation</h2>
 <p align="center">
-  <img src="https://github.com/ManshuSengar/ManshuSengar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
