@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manshu</h1>
 
-<p align="center">Confusion is part of Programming</p>
+<h3 align="center"><em>Confusion is part of Programming</em></h3>
 
 ---
 
 - 🔭 I’m currently working on **MERN (MongoDB, Express.js, React.js, Node.js)**  
-- 🌱 I’m currently learning to **Build MicroServices Backend for Scalable Applications.**  
-- 💡 I've keen interest in **cloud computing**, so I'm learning **AWS.**  
-- 💬 Ask me about **AWS, React Native, NodeJS, MongoDB, Python.**  
+- 🌱 I’m currently learning to **Build Microservices Backend for Scalable Applications.**  
+- ☁️ I've keen interest in **cloud computing**, so I'm learning **AWS.**  
+- 💬 Ask me about **AWS, React Native, Node.js, MongoDB, Python.**  
 - 📫 Reach me at **manshusengar35@gmail.com**  
 
 ---
@@ -19,33 +19,65 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManshuSengar&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManshuSengar&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManshuSengar&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManshuSengar&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Technologies That I Know</h2>
+<h2 align="center">🎖️ My Achievements</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManshuSengar&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Technologies That I Use</h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <!-- Add icons as needed -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
 </p>
 
 ---
 
-<h2 align="center">🐍 Snake Animation</h2>
+<h2 align="center">📂 Repositories Worth Checking Out</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/ManshuSengar/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManshuSengar&repo=project1&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/ManshuSengar/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManshuSengar&repo=project2&theme=radical" alt="Project 2" />
+  </a>
 </p>
-
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://instagram.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
+  <a href="https://instagram.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+<p align="center">
+  🚀 Learning Microservices Architecture  
+  🌱 Expanding knowledge in AWS & Cloud Computing   
 </p>
