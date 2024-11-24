@@ -4,9 +4,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ManshuSengar&color=blue&style=flat-square)
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding GIF">
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManshuSengar&layout=compact&theme=tokyonight)
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding GIF">
