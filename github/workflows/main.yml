@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Change this to your branch name
+      - master  # Change this to your branch name
 
 jobs:
   build:
