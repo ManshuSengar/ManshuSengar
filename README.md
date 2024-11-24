@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://twitter.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
-  <a href="https://instagram.com/ManshuSengar"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://instagram.com/manshu_sengar"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 ---
