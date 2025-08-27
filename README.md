@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManshuSengar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=ManshuSengar&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -53,6 +53,7 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
 </p>
 
+---
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
@@ -66,5 +67,7 @@
 <h2 align="center">🎯 Current Focus</h2>
 <p align="center">
   🚀 Learning Microservices Architecture  
-  🌱 Expanding knowledge in AWS & Cloud Computing   
+  🌱 Expanding knowledge in AWS & Cloud Computing  
+  📘 Practicing **Data Structures & Algorithms (DSA)**  
+  🏗️ Mastering **System Design**  
 </p>
