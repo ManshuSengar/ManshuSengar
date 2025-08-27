@@ -19,19 +19,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=ManshuSengar&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManshuSengar&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManshuSengar&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManshuSengar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🎖️ My Achievements</h2>
+<h2 align="center">🔥 GitHub Metrics</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManshuSengar&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github.com/ManshuSengar/ManshuSengar/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
