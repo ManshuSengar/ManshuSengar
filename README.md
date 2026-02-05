@@ -65,9 +65,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManshuSengar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake-dark.svg"> <img alt="github contribution snake" src="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake.svg"> </picture> </p>
 
 ---
 
@@ -84,7 +82,3 @@
 
 
 
-
-##
-
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake-dark.svg"> <img alt="github contribution snake" src="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake.svg"> </picture> </p>
