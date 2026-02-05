@@ -78,3 +78,18 @@
 - Deep dive into Distributed Systems
 - Contribute more to Open Source
 - Build high-scale backend systems
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake"
+         src="https://raw.githubusercontent.com/ManshuSengar/ManshuSengar/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
